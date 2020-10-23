@@ -1,0 +1,13 @@
+body{
+
+    background-image:url("Images/WhiteBackGroud.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    border: black solid;
+}
+
+div{
+    color:black;
+    background-color: #0fe7c7;
+    border:1em solid black;
+}
